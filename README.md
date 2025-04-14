@@ -1,7 +1,6 @@
 # mint-backgrounds-tricia
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-tricia?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-tricia-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-tricia-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-tricia)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-tricia`. Instead of building the
